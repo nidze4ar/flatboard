@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+.header {
+  position: relative;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  font-size: 22px;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  background-color: rgb(77, 22, 22);
+}
+.header p {
+  position: absolute;
+  bottom: -8px;
+  right: 50%
+}

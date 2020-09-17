@@ -1,0 +1,13 @@
+
+body{
+  background-image: linear-gradient(45deg, rgb(184, 162, 147), rgb(84, 99, 30));
+}
+.card_container {
+  height: 100%;
+  max-width: 900px;
+  margin: 5px auto;
+  padding-left: 80px;
+  padding-top: 15px;
+  text-align: justify;
+  background-image: linear-gradient(45deg, rgb(206, 134, 86), rgb(75, 59, 24));
+}

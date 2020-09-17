@@ -1,0 +1,18 @@
+.container_flatinfo{
+  position: absolute;
+  top: 10px;
+  left: -45px;
+  width: 85%;
+  height: 45px;
+  padding: 0 5px 0 5px;
+  font-size: 16px;
+  text-align: center;
+  background-color: rgb(224, 189, 123);
+  border: 1px solid black;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.container_flatinfo:hover {
+  background:#ffffff;
+  height: 120px;
+}
